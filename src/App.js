@@ -6,7 +6,6 @@ import Contact from './pages/Contact';
 import Listings from './pages/Listings';
 import Login from './pages/Login';
 import Register from './pages/Register';
-
 const App = () => {
   return (
     <Router>
@@ -21,5 +20,4 @@ const App = () => {
     </Router>
   );
 };
-
 export default App;
